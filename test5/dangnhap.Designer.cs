@@ -69,6 +69,7 @@
             // 
             // button2
             // 
+            this.button2.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.Location = new System.Drawing.Point(17, 117);
             this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
@@ -76,7 +77,7 @@
             this.button2.Size = new System.Drawing.Size(100, 35);
             this.button2.TabIndex = 2;
             this.button2.Text = "Đăng ký";
-            this.button2.UseVisualStyleBackColor = true;
+            this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
