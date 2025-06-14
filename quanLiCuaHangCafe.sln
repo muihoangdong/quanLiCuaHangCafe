@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36119.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quanLiCuaHangCafe", "test5\quanLiCuaHangCafe.csproj", "{3B5CCED0-03A7-4330-9E6C-D01E027524A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B5CCED0-03A7-4330-9E6C-D01E027524A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5CCED0-03A7-4330-9E6C-D01E027524A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5CCED0-03A7-4330-9E6C-D01E027524A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5CCED0-03A7-4330-9E6C-D01E027524A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE06290-2E49-46E6-8A67-23829E8FF3A8}
+	EndGlobalSection
+EndGlobal
