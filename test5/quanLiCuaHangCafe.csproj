@@ -128,5 +128,8 @@
   <ItemGroup>
     <None Include="Resources\new home.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\UI\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
